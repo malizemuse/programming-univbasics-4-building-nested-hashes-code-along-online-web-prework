@@ -31,8 +31,5 @@
   
 end
 
-# Scrap
 
-puts bonus
-puts bonus[:montague][:hero][:status]
-puts bonus[:capulet][:heroine][:status]
+
